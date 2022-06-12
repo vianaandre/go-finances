@@ -36,13 +36,11 @@ Tecnologias usadas para o desenvolvimento desse projeto:
 Libs:
 
 - [EditorConfig](https://editorconfig.org/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Expo](https://airbnb.design/lottie/)
-- [Expo Linear Gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
-- [React Native Image Cache](https://github.com/wcandillon/react-native-expo-image-cache)
-- [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
+- [Expo](https://expo.dev/)
 - [StyledComponents](https://styled-components.com/)
+- [react-hook-form](https://react-hook-form.com/get-started)
+- [victory-native](https://formidable.com/open-source/victory/docs/victory-pie/)
+- [react-native-svg](https://github.com/react-native-svg/react-native-svg)
 
 Ver mais <kbd>[package.json](./package.json)</kbd>
 
